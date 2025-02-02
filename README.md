@@ -10,6 +10,6 @@ This is my football-mod for the game
 This mod is avaliable for the *API 8 (1.7.20 to 1.7.36)*, so you can use 
 it if you plays on these versions.
 
-<h5>Info</h5>
+<h4>Info</h4>
 This is a football minigame, consisting a ball, two football goals, and
 can play 6 players (you can change it). It's a simply minigame.
