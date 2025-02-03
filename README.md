@@ -13,7 +13,7 @@ it if you plays on these versions.
 
 <h4>Info</h4>
 This is a football minigame, consisting a ball, two football goals, and
-can play 6 players (you can change it). It's a simply minigame.
+can play 6 players (you can change it). It's too complete but it is a simply minigame.
 
 <h2>Contributing</h2>
 
