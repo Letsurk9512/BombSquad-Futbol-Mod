@@ -1,6 +1,6 @@
-<h1><img
+<img
 src="https://www.bing.com/images/blob?bcid=sqTgdz8MLA8IUv6xfgfD2F6lNTO4.....8Y"
-height="50" alt="logo">BombSquad Football Soccer Mod</h1>
+height="50" alt="logo">
 
 <h2>Hi There!</h2>
 
