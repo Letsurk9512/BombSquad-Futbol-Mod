@@ -1,4 +1,4 @@
-<h2>![image](https://github.com/user-attachments/assets/eb4e9023-9f8b-42d9-a86d-e66c76e1a973) BombSquad Football Mod</h2>
+<img src="image.png" height="50" alt="logo">
 
 
 <h2>Hi There!</h2>
@@ -14,4 +14,19 @@ it if you plays on these versions.
 <h4>Info</h4>
 This is a football minigame, consisting a ball, two football goals, and
 can play 6 players (you can change it). It's a simply minigame.
-<h5>You can help me or fork it!</h5>
+
+<h2>Contributing</h2>
+
+Want to contribute? Great!
+
+```
+1. Fork it
+2. Create a new file in the mods folder
+3. Add a json file with additional infos (optional)
+4. Describes what it is about
+5. Open a Pull Request
+6. Profit
+```
+**If you need anything or have any questions/problems, I leave you here my Discord: dev.exef**
+
+**`↑ WARNING! DON'T WRITE TO ME ABOUT ABUSIVE AND NONSENSICAL THINGS WITH THIS ↑`**
