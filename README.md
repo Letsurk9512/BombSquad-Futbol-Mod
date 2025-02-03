@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb4e9023-9f8b-42d9-a86d-e66c76e1a973)
+<h2>![image](https://github.com/user-attachments/assets/eb4e9023-9f8b-42d9-a86d-e66c76e1a973) BombSquad Football Mod</h2>
 
 
 <h2>Hi There!</h2>
