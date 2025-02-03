@@ -1,6 +1,5 @@
-<img
-src="https://www.bing.com/images/blob?bcid=sqTgdz8MLA8IUv6xfgfD2F6lNTO4.....8Y"
-height="50" alt="logo">
+![image](https://github.com/user-attachments/assets/eb4e9023-9f8b-42d9-a86d-e66c76e1a973)
+
 
 <h2>Hi There!</h2>
 
