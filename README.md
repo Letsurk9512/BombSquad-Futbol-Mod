@@ -1,4 +1,4 @@
-<img src="image.png" height="50" alt="logo">
+<img src="crown_icon.png" height="50" alt="logo">
 
 
 <h2>Hi There!</h2>
