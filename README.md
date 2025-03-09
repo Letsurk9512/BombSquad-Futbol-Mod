@@ -3,7 +3,7 @@
 
 <h2>Hi There!</h2>
 
-This is my football-mod for the game
+This is my football-soccer-mod for the game
 <a href="http://www.froemling.net/apps/bombsquad">BombSquad</a> made by
 <a href="http://www.froemling.net/about">Eric Froemling</a>
 
@@ -27,6 +27,3 @@ Want to contribute? Great!
 5. Open a Pull Request
 6. Profit
 ```
-**If you need anything or have any questions/problems, I leave you here my Discord: dev.exef**
-
-**`↑ WARNING! DON'T WRITE TO ME ABOUT ABUSIVE AND NONSENSICAL THINGS WITH THIS ↑`**
